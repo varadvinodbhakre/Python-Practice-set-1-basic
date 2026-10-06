@@ -1,4 +1,4 @@
-# 🐍 Python Practice Set 1
+#  Python Practice Set 1
 
 This repository contains my **Python Practice Set 1**, where I have solved basic Python programming problems to strengthen my fundamentals.
 
